@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.crs {
+    height: 400px;
+    width: 100%;
+}
+.line_shadow {
+    margin: 0px auto 0px auto;
+    padding: 0;
+    width: 50%;
+    border: none;
+    border-top: 1px solid #ffff;
+}
